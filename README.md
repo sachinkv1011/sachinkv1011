@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m sachin kv
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JAVA FULL STACK
+- 🌱 I’m currently learning core cyber security
 
 
 <!---
